@@ -1,0 +1,10 @@
+footer a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+footer a:hover {
+    color: #a8e6cf;
+    text-decoration: underline;
+}
