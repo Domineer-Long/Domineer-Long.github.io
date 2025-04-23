@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>无名斋</title>
+    <title>我的博客</title>
     <link>https://www.tristan.top/</link>
-    <description>无名斋</description>
+    <description>我的博客</description>
     <generator>Hugo 0.146.6 &amp; FixIt v0.3.19-c2dc17e9</generator>
-    <language>zh-cn</language>
+    <language>zh-CN</language>
     <lastBuildDate>Tue, 22 Apr 2025 09:42:27 +0800</lastBuildDate>
     <atom:link href="https://www.tristan.top/index.xml" rel="self" type="application/rss+xml" />
     <item>
