@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>网络 - 分类 - 我的博客</title>
-    <link>https://www.tristan.top/categories/%E7%BD%91%E7%BB%9C/</link>
+    <link>http://localhost:1313/categories/%E7%BD%91%E7%BB%9C/</link>
     <description>我的博客</description>
     <generator>Hugo 0.146.6 &amp; FixIt v0.3.19-c2dc17e9</generator>
     <language>zh-CN</language>
     <lastBuildDate>Tue, 22 Apr 2025 09:42:27 +0800</lastBuildDate>
-    <atom:link href="https://www.tristan.top/categories/%E7%BD%91%E7%BB%9C/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/%E7%BD%91%E7%BB%9C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>理解各种Timeout错误</title>
-      <link>https://www.tristan.top/posts/all-kinds-of-timeout/</link>
+      <link>http://localhost:1313/posts/all-kinds-of-timeout/</link>
       <pubDate>Tue, 22 Apr 2025 09:42:27 +0800</pubDate>
-      <guid>https://www.tristan.top/posts/all-kinds-of-timeout/</guid>
-      <category domain="https://www.tristan.top/categories/%E7%BD%91%E7%BB%9C/">网络</category>
+      <guid>http://localhost:1313/posts/all-kinds-of-timeout/</guid>
+      <category domain="http://localhost:1313/categories/%E7%BD%91%E7%BB%9C/">网络</category>
       <description>&lt;p&gt;网络通信中的各种“timed out”错误，诸如 connect timed out、read timed out 和 write timed out，通常与连接的延迟、数据传输的速度和网络状态等因素有关。接下来，我将详细解释这些超时错误的含义、原因和可能的解决方案。&lt;/p&gt;</description>
     </item>
   </channel>
