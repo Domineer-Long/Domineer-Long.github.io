@@ -137,6 +137,6 @@ stateDiagram-v2
 
 ---
 
-> 作者:   
+> 作者: Domineer-Long  
 > URL: https://www.tristan.top/posts/all-kinds-of-timeout/  
 
